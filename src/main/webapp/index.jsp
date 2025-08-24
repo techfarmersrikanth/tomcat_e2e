@@ -61,6 +61,7 @@
 <body>
   <header>
     <h1>🚀 DevOps Portal</h1>
+      <h2> Learning with Srikanth Anumula</h2>
     <p>Continuous Integration | Continuous Delivery | Automation</p>
   </header>
 
@@ -87,7 +88,7 @@
   </section>
 
   <footer>
-    <p>© 2025 DevOps Portal | Built for Learning & Innovation</p>
+    <p>© Srikanth Anumula @ 2025 DevOps Portal | Built for Learning & Innovation</p>
   </footer>
 </body>
 </html>
