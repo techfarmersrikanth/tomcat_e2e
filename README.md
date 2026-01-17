@@ -4,7 +4,7 @@
 ```
 $mvn clean verify
 
-[INFO] Scanning for projects...
+[INFO] Scanning for projects...aa
 [INFO]                                                                         
 [INFO] ------------------------------------------------------------------------
 [INFO] Building Example 0.0.1-SNAPSHOT
